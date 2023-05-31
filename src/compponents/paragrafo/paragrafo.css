@@ -1,0 +1,10 @@
+.paragrafo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+    text-align: center;
+    font-weight: 700;
+    width: 150px;
+    height: 150px;
+}
